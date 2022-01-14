@@ -18,3 +18,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Deployment
 
+https://trealtye20.github.io/Code-Quiz/
+
+https://github.com/trealtye20
